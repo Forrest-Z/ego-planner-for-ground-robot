@@ -1,0 +1,1 @@
+/usr/bin/c++   -D__NO_COPYRIGHT__ -Wall -pedantic -Wfloat-equal -Wshadow -DLINUX -g -O3 -finline-functions  -rdynamic CMakeFiles/qrecipeSchur.dir/examples/qrecipeSchur.cpp.o  -o bin/qrecipeSchur libs/libqpOASES.a 

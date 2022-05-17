@@ -1,0 +1,1 @@
+/usr/bin/c++   -D__NO_COPYRIGHT__ -Wall -pedantic -Wfloat-equal -Wshadow -DLINUX -g -O3 -finline-functions  -rdynamic CMakeFiles/example5.dir/examples/example5.cpp.o  -o bin/example5 libs/libqpOASES.a 

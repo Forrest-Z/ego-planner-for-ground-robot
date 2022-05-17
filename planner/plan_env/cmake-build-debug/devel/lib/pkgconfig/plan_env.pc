@@ -1,0 +1,8 @@
+prefix=/home/dango/dango_file2/graduation_project/ego-planner-master/src/planner/plan_env/cmake-build-debug/devel
+
+Name: plan_env
+Description: Description of plan_env
+Version: 0.0.0
+Cflags: -I/home/dango/dango_file2/graduation_project/ego-planner-master/src/planner/plan_env/include
+Libs: -L${prefix}/lib -lplan_env
+Requires: roscpp std_msgs

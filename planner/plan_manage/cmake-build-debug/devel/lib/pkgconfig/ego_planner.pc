@@ -1,0 +1,8 @@
+prefix=/home/dango/dango_file2/graduation_project/auto_exploration/src/ego-planner-master/planner/plan_manage/cmake-build-debug/devel
+
+Name: ego_planner
+Description: Description of ego_planner
+Version: 0.0.0
+Cflags: -I/home/dango/dango_file2/graduation_project/auto_exploration/src/ego-planner-master/planner/plan_manage/cmake-build-debug/devel/include -I/home/dango/dango_file2/graduation_project/auto_exploration/src/ego-planner-master/planner/plan_manage/include
+Libs: -L${prefix}/lib -lego_planner
+Requires: plan_env path_searching bspline_opt traj_utils message_runtime mpc_controller
